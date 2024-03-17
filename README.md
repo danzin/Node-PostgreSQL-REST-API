@@ -2,6 +2,10 @@
 
 The project features a basic CRUD API with PostgreSQL database. 
 
+Available in docker image: [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/r/promiscuous/nodejs-api-noenv)
+
+`docker pull promiscuous/nodejs-api-noenv`
+
 ![Postman_1y3VknGpv8](https://github.com/danzin/Node-PostgreSQL-REST-API/assets/8279984/5d9c3802-c4e0-4c52-8bac-d015db62aad1)
 
 ``` npm install ``` to install dependencies.
